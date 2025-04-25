@@ -1,0 +1,2 @@
+Pero,Perić,12345678947,98765432143,PMF,Marko,Marić,11122233223,PMF,5
+Ivana,Ivić,98765432123,12345678945,Medicinski fakultet,Tena,Tenić,44455566677,Medicinski fakultet,4
